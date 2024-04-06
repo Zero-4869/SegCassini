@@ -6,7 +6,7 @@ To train the model for style transfer:
     ```python cyclegan_qgis.py```
 
 To use the denoiser:
-    ```p```ython cyclegan_qgis_dncnn.py```
+    ```python cyclegan_qgis_dncnn.py```
 
 ## Segmentation model on IGN maps
 To train a segmentation model on IGN maps:
