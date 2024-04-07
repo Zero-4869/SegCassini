@@ -46,7 +46,7 @@ To test
 
 https://github.com/cszn/KAIR
 
-## Text recognition
+## Text detection
 https://github.com/mlpc-ucsd/TESTR
 
 
