@@ -42,7 +42,7 @@ To test
     ```python segment_cassini_baseline_test.py```
 
 ## DNCNN model:
-[Reducing Steganography](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Vision%20for%20All%20Seasons%20Bad%20Weather%20and%20Nighttime/Porav_Reducing_Steganography_In_Cycle-consistency_GANs_CVPRW_2019_paper.pdf)
+[Reducing Steganography In Cycle-consistency GANs CVPRW2019](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Vision%20for%20All%20Seasons%20Bad%20Weather%20and%20Nighttime/Porav_Reducing_Steganography_In_Cycle-consistency_GANs_CVPRW_2019_paper.pdf)
 
 https://github.com/cszn/KAIR
 
